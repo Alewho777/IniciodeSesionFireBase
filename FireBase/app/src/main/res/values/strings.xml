@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SeguridadInicio</string>
+    <string name="Cerrar_Sesion">Cerrar Sesion</string>
+    <string name="correoLogin">Correo</string>
+    <string name="contraLogin">Contraseña</string>
+    <string name="contraRegistro">Contraseña</string>
+    <string name="correoRegistro">Correo</string>
+</resources>
